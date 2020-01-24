@@ -11,3 +11,48 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+ .divv{
+  border: 1px solid silver;
+  padding: 5px;
+  margin: 3px;
+  display: flex;
+  background: #fff;
+  font-family: 'Times New Roman';
+}
+
+.irrigator{
+  border: 1px solid silver;
+  border-color: lightseagreen;
+  margin: 4px;
+  padding-left: 2px;
+  width: 300px;
+
+}
+
+h2{
+ 
+}
+
+span{
+  color: silver;
+  /* padding-left: 80px; */
+ text-decoration: line-through;
+ font-size: 20px;
+}
+
+h3{
+  
+ 
+}
+
+.irrigator img{
+ padding-left: 25px;
+ /* padding: 5px; */
+margin: 10px; 
+}
+
+.irrigator a{
+  text-decoration: none;
+  color: lightseagreen;
+}
