@@ -1,5 +1,5 @@
 import React from 'react'
-import Market from './components/Yandex/Market';
+import Market from './components/Yandex/Purchase';
 
 export default function App() {
     const markets = [
