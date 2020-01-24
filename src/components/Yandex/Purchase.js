@@ -1,14 +1,14 @@
 import React from 'react'
 
-export default function Market(props) {
+export default function Purchase(props) {
     return (
-        <article className="arrttt">
+        <article>
             
             <img src={props.imgUrl} alt=""/>
-            <h2> {props.price} ₽ <span>{props.priceDirection} </span></h2> 
+            <h2> {props.price} ₽ <span>{props.firstPrice} </span></h2> 
             {/* <h3>{props.priceDirection} </h3> */}
             
-            <a href="">{props.title } </a>
+            <a href="#">{props.namePurchase } </a>
             
             
 
